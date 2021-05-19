@@ -1,1 +1,1 @@
-# Tindog-1.0.0-alpha
+TinDog Starting Files
